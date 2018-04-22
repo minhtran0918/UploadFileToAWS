@@ -1,0 +1,5 @@
+amazonProperties:
+  endpointUrl: https://s3.ap-southeast-1.amazonaws.com
+  accessKey: AKIAJEXBMWTVXUU5UCAA
+  secretKey: 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
+  bucketName: bucket-group4-uploadfile
